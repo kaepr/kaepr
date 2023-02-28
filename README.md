@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kaepr/kaepr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi 👋, I'm Shagun Agrawal
+
+- 🌱 I’m currently learning Rust, Systems and Functional programming
+
+- 📫 How to reach me **agrawalshagun07@gmail.com**
