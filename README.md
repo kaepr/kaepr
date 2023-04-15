@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Rust, Systems and Functional programming
 
-- 📫 Reach me at **agrawalshagun07@gmail.com**
+- 📫 Reach me at [email](mailto:agrawalshagun07@gmail.com)
