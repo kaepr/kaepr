@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 ## Hi 👋, I'm Shagun Agrawal
 
-- 🌱 I’m currently learning Rust, Systems and Functional programming
+- 🌱 I’m currently learning Rust, Clojure Systems and Functional programming
 
 - 📫 Reach me at [email](mailto:agrawalshagun07@gmail.com)
