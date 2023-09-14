@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi 👋, I'm Shagun Agrawal
 
-- 🌱 I’m currently learning Rust and Clojure. 
+- 🌱 I’m currently learning Clojure. 
 
 - Interested in Systems and Functional programming
 
