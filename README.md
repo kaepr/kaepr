@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **kaepr/kaepr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi 👋, I'm Shagun Agrawal
+
+- 🌱 I’m currently learning Clojure. 
+
+- Interested in Systems and Functional programming
+
+- Reach me at [twitter](https://x.com/agrawalshagun10)
+
